@@ -1,0 +1,26 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "Introduction to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedvictor/nodepackage.git"
+  },
+  "keywords": [
+    "nod"
+  ],
+  "author": "Victor Ige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedvictor/nodepackage/issues"
+  },
+  "homepage": "https://github.com/codedvictor/nodepackage#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
+  }
+}
